@@ -1,4 +1,4 @@
-# Flodo Tasks
+# Task Management System
 
 A production-quality Flutter task-management app built for the Flodo AI take-home assignment.
 
